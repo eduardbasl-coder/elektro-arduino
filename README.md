@@ -143,10 +143,10 @@ Možné upgrady
 
 # Media
 
-Do složky `media` přidej
+Ve složce `media` najdeš
 - fotky zařízení
 - video boot sekvence
-- screenshoty schematu
+- foto a video dokumentaci
 
 ---
 
