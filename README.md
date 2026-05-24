@@ -134,7 +134,7 @@ Každý projekt může obsahovat:
 # 📬 Kontakt
 
 💻 Web portfolio:  
-https://basldev.dev
+https://basldev.fun
 
 📧 Email:  
 basleduard@gmail.com
